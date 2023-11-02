@@ -1,12 +1,12 @@
-# Canadian Tech Internships for 2023 by COMPSA 👑
+# Canadian Tech Internships for 2023 by sAyApAtRi
 
 ## About 🧠
 
-This is a list of Canadian tech internships for 2023. This list is maintained by the [COMPSA](https://compsa.ca) team at Queen's Univeristy. Feel free to contribute to this list by submitting a pull request!
+This is a list of Canadian tech internships for 2023. Feel free to contribute to this list by submitting a pull request!
 
 ## Job Postings 💼
 
-[⬇️ Jump to newest entries ⬇️](https://github.com/Queen-s-COMPSA/Canadian-Tech-Internships-2023#end-of-list)
+[⬇️ Jump to newest entries ⬇️](https://github.com/Sayapatri/XMANTRA#end-of-list)
 
 | Company                   | Role                                                                                                                                                                                                                                                | Location                                                                                                                                                                                | Start Date         | Length         |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------- |
