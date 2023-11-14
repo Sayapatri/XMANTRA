@@ -2,7 +2,7 @@
 
 ## About 🧠
 
-This is a list of Canadian tech internships for 2023.  Feel free to contribute to this list by submitting a pull request!
+This is a list of Canadian tech internships for 2023.  Feel free to contribute to this list by submitting a pull request!!
 
 ## Job Postings 💼
 
